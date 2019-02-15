@@ -1,3 +1,15 @@
+
+=========================================================================
+ATTENTION: The License below applies to the following files:
+
+- Files at the root folder of this repository (LICENSE, README.md)
+- Files at the docs folder of this repository
+
+Files in other folders (client-*, server) may be distributed under different licenses. 
+Please check the LICENSE file at the root of each folder in the repository for 
+details.
+=========================================================================
+
 MIT License
 
 Copyright (c) 2019 Claus Aranha
