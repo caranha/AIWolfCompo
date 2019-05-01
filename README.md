@@ -3,7 +3,7 @@ Your one-stop shop for the AIWerewolf Competition
 
 This repository aims at providing the resources necessary, in English,
 for participation in the annual AI werewolf contest organized by
-[AIWolf.org](http://aiwolf.org). This includes rulesets, sample clients,
+[AIWolf.org](http://aiwolf.org/en). This includes rulesets, sample clients,
 and tutorials for each supported programming language.
 
 The current AI Werewolf competition is embedded in the [Tenth International
