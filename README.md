@@ -8,8 +8,8 @@ and tutorials for each supported programming language.
 
 The current AI Werewolf competition is embedded in the [Tenth International
 Automated Negotiating Agents Competition
-(ANAC)](http://web.tuat.ac.jp/~katfuji/ANAC2019/), using the AIWolf server
-version 5.2.
+(ANAC)](http://web.tuat.ac.jp/~katfuji/ANAC2019/), using the AIWolf platform
+version 0.5.x.
 
 ## What is AI Werewolf?
 Werewolf (also sometimes called Mafia) is a party/social game. The goal
@@ -48,7 +48,7 @@ the AIWolf competition. In particular, this repository contains:
 ## Where can I find more information?
 
 The main source of information is the [AIWolf project
-website](http://aiwolf.org).
+website](http://aiwolf.org/en).
 
 You can send e-mails with technical and rules questions to the
 [gm@aiwolf.org](mailto:gm@aiwolf.org) mailing list.
