@@ -1,14 +1,11 @@
-# AIWolf Server HOWTO:
+# Information about the AIWolf Server:
 
-The newest version of the AIWolf server, along with
-patch notes and helper scripts, can be downloaded from
-the [AIWolf org server page](http://aiwolf.org/en/server)
+## Current Competition (ANAC2019):
 
-## Server helper script description
+The current competition will use server version 0.5.4 (compatible with all 0.5.* servers)
 
-TODO
+## How to Download the server:
 
-## Server communication outline
-
-The server exchange data with the clients using sockets. The data is in JSON
-format. (TODO: add details)
+The newest version of the AIWolf server, along with patch notes and
+helper scripts, can be downloaded from
+[AIWolf org server page](http://aiwolf.org/en/server)
