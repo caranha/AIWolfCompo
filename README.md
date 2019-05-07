@@ -3,7 +3,7 @@
 Your one-stop shop for the AIWerewolf Competition
 
 This repository provides the necessary resources for participation in the
-annual AI werewolf contest organized by [AIWolf.org](http://aiwolf.org).
+annual AI werewolf contest organized by [AIWolf.org](http://aiwolf.org/en).
 This includes rulesets, sample clients, and tutorials for each supported
 programming languages.
 
@@ -27,7 +27,7 @@ the AIWolf competition. In particular, this repository contains:
 
 ## Where can I find more information?
 
-The main source of information is the [AIWolf project website](http://aiwolf.org).
+The main source of information is the [AIWolf project website](http://aiwolf.org/en).
 
 You can send e-mails with technical and rules questions to the [gm@aiwolf.org](mailto:gm@aiwolf.org) mailing list.
 
