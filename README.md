@@ -11,8 +11,8 @@ programming languages.
 
 - **Venue**: [Tenth International Automated Negotiating Agents Competition (ANAC)](http://web.tuat.ac.jp/~katfuji/ANAC2019/)
 - **Date and Location**: IJCAI 2019, Macao, August 10th to 16th
-- **Server Version**: AIWolf Server 0.5.* (latest bugfix 0.5.4)
-- **Agent Submission Deadline**:
+- **Server Version**: AIWolf Server 0.5.* (latest bugfix 0.5.5)
+- **Agent Submission Deadline**: July 7th, 2019
 
 ## What is available at this repository?
 
@@ -27,7 +27,7 @@ the AIWolf competition. In particular, this repository contains:
 
 ## Where can I find more information?
 
-The main source of information is the [AIWolf project website](http://aiwolf.org/en).
+The main source of information is the [AIWolf project website](http://aiwolf.org/en). The call and details for this competition are on the [AIWolf Competition page](http://aiwolf.org/en/1st-international-aiwolf-contest)
 
 You can send e-mails with technical and rules questions to the [gm@aiwolf.org](mailto:gm@aiwolf.org) mailing list.
 
