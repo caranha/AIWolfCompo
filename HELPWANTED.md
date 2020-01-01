@@ -1,15 +1,13 @@
 # Help Wanted
+v2020.1 by Claus Aranha
 
-This is the first year where the AIWolf competition is being held in English at
-an international venue. While the AIWolf project has extensive documentation in
-Japanese, the amount of documentation available in English is still limited.
+We are always looking for more resources to the AIWolf community. 
+Please contact us if you would like to contribute any of the following:
 
-## You can help!
+- Sample agents (in any language)
+- Documents with tricks for programming or designing AIWolf Agents
+- Programs for visualizing data from game logs
 
-We count on the help of the community to contribute materials in English and
-increase the international reach of the AIWolf project. Contributions on the
-following topics are specially appreciated:
+We would be happy to include your code in the repository, 
+or link to it in one of the readme files. Get in touch!
 
-- Agent sample code.
-- Tutorials (sample agents or specific techniques).
-- Short articles discussing agent building techniques.

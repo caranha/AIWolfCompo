@@ -1,18 +1,18 @@
 # AIWolfCompo
 
-Your one-stop shop for the AIWerewolf Competition
+Your one-stop coding shop for the AIWolf Competition!
 
-This repository provides the necessary resources for participation in the
-annual AI werewolf contest organized by [AIWolf.org](http://aiwolf.org/en).
-This includes rulesets, sample clients, and tutorials for each supported
-programming languages.
+This repository gathers code samples, programming tricks, and visualization 
+tools related with the AIWolf contest organized by the 
+[AIWolf Project](http://aiwolf.org/en). 
 
-## Current AI Werewolf Competition:
+The AIWolf project is an effort to create automated agents that can 
+play the Werewolf game (also called Mafia in some places). Please see 
+the project page linked above for more information. 
 
-- **Venue**: [Tenth International Automated Negotiating Agents Competition (ANAC)](http://web.tuat.ac.jp/~katfuji/ANAC2019/)
-- **Date and Location**: IJCAI 2019, Macao, August 10th to 16th
-- **Server Version**: AIWolf Server 0.5.* (latest bugfix 0.5.5)
-- **Agent Submission Deadline**: July 7th, 2019
+The current AIWolf competition is the 
+[**Automated Negotiating Agents Competition (ANAC 2020)**](http://web.tuat.ac.jp/~katfuji/ANAC2020/), 
+which will take place at [**IJCAI 2020**](http://www.ijcai20.org/) in Yokohama, Japan.
 
 ## What is available at this repository?
 
@@ -27,32 +27,8 @@ the AIWolf competition. In particular, this repository contains:
 
 ## Where can I find more information?
 
-The main source of information is the [AIWolf project website](http://aiwolf.org/en). The call and details for this competition are on the [AIWolf Competition page](http://aiwolf.org/en/1st-international-aiwolf-contest)
+The main source of information is the [AIWolf project website](http://aiwolf.org/en). The call and details for this competition are on the [AIWolf Competition page](http://aiwolf.org/en/2nd-international-aiwolf-contest)
 
 You can send e-mails with technical and rules questions to the [gm@aiwolf.org](mailto:gm@aiwolf.org) mailing list.
 
 If you have any questions, please join our Slack channel! Fill [this Google Form](https://goo.gl/forms/VIXeJXvwg9YN4rHF3) to request an invite.
-
-## What is AI Werewolf?
-
-Werewolf (also sometimes called Mafia) is a party/social game. The goal
-of the game is to simulate a town invaded by werewolves, and is based
-on the dynamics of uninformed majority vs informed minority.
-
-The basic rules are as follow: Each player is a Human or a Werewolf. The
-werewolf players know who the other werewolves are, but the human players do not
-know who is a human and who is a werewolf. Each turn (day), the players discuss
-and vote on one player to be removed from the game. Usually, the werewolves will
-pretend to be human and try to accuse other humans of being werewolves, in order
-to get they voted out of the game. After each voting round the werewolves
-can choose to eat one player at night, removing them from the game.
-
-The game can be further complicated by the addition of roles, such as
-seers who can divine who is a werewolf and who is a human, and bodyguards,
-who can prevent a player from being eaten by a werewolf.
-
-**AIWolf** is a project that aims to build AI agents that can play the
-werewolf game. The challenges of the werewolf game include: Modeling the
-behaviors of players, estimating the likelihood of werewolf and humans,
-discussion and negotiation with other players on voting strategy, and
-Natural Language understanding and speaking.
